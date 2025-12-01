@@ -3,10 +3,6 @@
 ![ZAS Robotics IoT Communication Kit](ZASRoboticsIOTCommunicationKit.png)
 
 
-
-# Communication Learning Journey  
-![Communication Learning Journey](ZASRoboticsCommunicationsLearningJourney.png)
-
 ## About This Repository
 
 This folder contains the **Foundation Projects** for the ZAS Robotics Motion (Actuator) Kit.  
