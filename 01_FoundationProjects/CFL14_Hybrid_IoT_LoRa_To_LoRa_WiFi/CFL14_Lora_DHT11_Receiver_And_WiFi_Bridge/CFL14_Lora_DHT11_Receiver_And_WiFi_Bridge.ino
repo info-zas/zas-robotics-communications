@@ -4,8 +4,8 @@
 #include <LoRa.h>
 
 // ========= WIFI =========
-const char *ssid = "156HomeKitchen";
-const char *password = "Hitchin786&";
+const char *ssid = "Enter Your SSID Here";
+const char *password = "Enter Your WiFi Password Here";
 
 // ========= LORA PINS =========
 #define LORA_SS   5

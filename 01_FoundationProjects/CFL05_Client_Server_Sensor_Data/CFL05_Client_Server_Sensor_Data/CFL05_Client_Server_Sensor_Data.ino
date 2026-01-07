@@ -2,8 +2,8 @@
 #include <WebServer.h>
 #include <DHT.h>
 
-const char *ssid = "156HomeKitchen";
-const char *password = "Hitchin786&";
+const char *ssid = "Enter Your WiFi SSID";
+const char *password = "Enter Your Password";
 
 WebServer server(80);
 DHT dht(33, DHT11);  // DHT11 on GPIO 33
